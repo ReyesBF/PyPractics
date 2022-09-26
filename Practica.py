@@ -1,4 +1,4 @@
-a = "Hola Mundo"
+a = "Cambiando variables"
 
 print(a)
 print("hola mundo")
